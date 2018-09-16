@@ -1,6 +1,4 @@
-[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
-# Udacity Self-Driving Car Engineer Nanodegree
-# Project: Predict Steering Angle by Behavioral Cloning
+# Predict Steering Angle with CNN
 ---
 
 **Project Guidlines**
@@ -116,3 +114,6 @@ I then preprocessed this data by changing the color map from BGR to RGB, normali
 
 ### Simulation
 In the submitted video, the vehicle did not pop up onto ledges or roll over any sufaces that would otherwise be considered unsafe. 
+
+### Disclaimer
+The project is part of study of the Nano-degree of Udacity "Self-Driving Car Engineer". The learning material and the data is provided by Udacity, and the key implementation of the project is carried out by Yi Chen.
